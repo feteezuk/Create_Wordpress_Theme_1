@@ -1,0 +1,14 @@
+[13-Oct-2021 17:56:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /Users/jonathanhollander/Local Sites/test1/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[13-Oct-2021 17:59:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/jonathanhollander/Local Sites/test1/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[13-Oct-2021 18:05:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /Users/jonathanhollander/Local Sites/test1/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[13-Oct-2021 18:06:12 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /Users/jonathanhollander/Local Sites/test1/app/public/wp-content/themes/fictional-university-theme/index.php on line 2
+[13-Oct-2021 18:06:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /Users/jonathanhollander/Local Sites/test1/app/public/wp-content/themes/fictional-university-theme/index.php on line 2
+[13-Oct-2021 18:06:50 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /Users/jonathanhollander/Local Sites/test1/app/public/wp-content/themes/fictional-university-theme/index.php on line 2
+[13-Oct-2021 19:38:42 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /Users/jonathanhollander/Local Sites/test1/app/public/wp-content/themes/fictional-university-theme/index.php on line 7
+[13-Oct-2021 20:12:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_body() in /Users/jonathanhollander/Local Sites/test1/app/public/wp-content/themes/fictional-university-theme/index.php:6
+Stack trace:
+#0 /Users/jonathanhollander/Local Sites/test1/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/jonathanhollander/Local Sites/test1/app/public/wp-blog-header.php(19): require_once('/Users/jonathan...')
+#2 /Users/jonathanhollander/Local Sites/test1/app/public/index.php(17): require('/Users/jonathan...')
+#3 {main}
+  thrown in /Users/jonathanhollander/Local Sites/test1/app/public/wp-content/themes/fictional-university-theme/index.php on line 6
