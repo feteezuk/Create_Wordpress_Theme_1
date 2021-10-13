@@ -2,6 +2,8 @@
 
 Following the Tutorial at https://www.youtube.com/watch?v=FVqzKAUsM68&ab_channel=LearnWebCode
 
+Created using a local Dev Environment.
+
 The theme I created is in the Theme Folder, and is called "fictional-university-theme". 
 
 I am currently following along how to create a Wordpress Theme from scratch which includes the following:
